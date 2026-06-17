@@ -61,43 +61,89 @@ The entire platform is containerised - every microservice, database, and infrast
 
 ## Video presentation of key concepts and UI
 [Link to the video]()
-0:00 BE tests
-2:08 asynchronous communication
-5:44 synchronous communication
 
-7:52 security overview
-10:27 security examples
+## Video presentation Walkthrough
 
-11:56 Frontend
-13:20 Registration
-14:56 account settings
-15:33 Registration (user-event service down)
-15:50 partner
-16:51 client
-- 17:09 creating and editing a reservation
-- 18:09 menu personalization
-19:51 client and employee (ticket, communication)
-- 20:24 partner offerings overview
-- 20:36 communication (WebSocket)
-- 21:51 contacting a partner
-- 22:18 partner response to request
-23:30 employee rating
-24:01 delivery tracking (client)
-24:36 payment (client)
-- 25:15 invoice creation and delivery
-- 26:55 card payment
-27:29 employee
-- 28:02 employee dashboard
-- 28:56 proforma invoice creation
-- 30:23 sending proforma invoice via chat
-31:09 password reset on first login (employee, admin and partner)
-31:54 admin panel (events, menu items, locations, price per person, loyalty categories, clients, administrators, employees, partners, partner offerings, AI interaction log)
-36:29 admin analytics
-37:42 session management
+### Backend
 
-38:28 FE testing
-40:47 greetings
+- **00:00** - BE Tests
+- **02:08** - Asynchronous Communication
+- **05:44** - Synchronous Communication
 
+### Security
+
+- **07:52** - Security Overview
+- **10:27** - Security Examples
+
+### Frontend
+
+- **11:56** - Frontend Overview
+
+### Registration & Account Management
+
+- **13:20** - Registration
+- **14:56** - Account Settings
+- **15:33** - Registration (User-Event Service Down)
+
+### Partner
+
+- **15:50** - Partner
+
+### Client
+
+- **16:51** - Client
+  - **17:09** - Creating and Editing a Reservation
+  - **18:09** - Menu Personalization
+
+### Client & Employee Communication
+
+- **19:51** - Ticketing and Communication
+  - **20:24** - Partner Offerings Overview
+  - **20:36** - Communication (WebSocket)
+  - **21:51** - Contacting a Partner
+  - **22:18** - Partner Response to Request
+
+### Ratings, Tracking & Payments
+
+- **23:30** - Employee Rating
+- **24:01** - Delivery Tracking (Client)
+- **24:36** - Payment (Client)
+  - **25:15** - Invoice Creation and Delivery
+  - **26:55** - Card Payment
+
+### Employee
+
+- **27:29** - Employee
+  - **28:02** - Employee Dashboard
+  - **28:56** - Proforma Invoice Creation
+  - **30:23** - Sending Proforma Invoice via Chat
+
+### Authentication
+
+- **31:09** - Password Reset on First Login (Employee, Admin, and Partner)
+
+### Administration
+
+- **31:54** - Admin Panel
+  - Events
+  - Menu Items
+  - Locations
+  - Price per Person
+  - Loyalty Categories
+  - Clients
+  - Administrators
+  - Employees
+  - Partners
+  - Partner Offerings
+  - AI Interaction Log
+
+- **36:29** - Admin Analytics
+- **37:42** - Session Management
+
+### Testing & Logout
+
+- **38:28** - Frontend Testing
+- **40:47** - Greetings
 ## Team
 
 - [Merjem Gutošić](https://github.com/GutosicMerjem)
