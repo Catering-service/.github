@@ -61,6 +61,42 @@ The entire platform is containerised - every microservice, database, and infrast
 
 ## Video presentation of key concepts and UI
 [Link to the video]()
+0:00 BE tests
+2:08 asynchronous communication
+5:44 synchronous communication
+
+7:52 security overview
+10:27 security examples
+
+11:56 Frontend
+13:20 Registration
+14:56 account settings
+15:33 Registration (user-event service down)
+15:50 partner
+16:51 client
+- 17:09 creating and editing a reservation
+- 18:09 menu personalization
+19:51 client and employee (ticket, communication)
+- 20:24 partner offerings overview
+- 20:36 communication (WebSocket)
+- 21:51 contacting a partner
+- 22:18 partner response to request
+23:30 employee rating
+24:01 delivery tracking (client)
+24:36 payment (client)
+- 25:15 invoice creation and delivery
+- 26:55 card payment
+27:29 employee
+- 28:02 employee dashboard
+- 28:56 proforma invoice creation
+- 30:23 sending proforma invoice via chat
+31:09 password reset on first login (employee, admin and partner)
+31:54 admin panel (events, menu items, locations, price per person, loyalty categories, clients, administrators, employees, partners, partner offerings, AI interaction log)
+36:29 admin analytics
+37:42 session management
+
+38:28 FE testing
+40:47 greetings
 
 ## Team
 
