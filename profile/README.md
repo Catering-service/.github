@@ -60,7 +60,7 @@ Each microservice owns its own isolated **PostgreSQL** database following the Da
 The entire platform is containerised - every microservice, database, and infrastructure component (RabbitMQ, Eureka) runs as a Docker container. To build the application follow the instruction provided in [deployment repository](https://github.com/Catering-service/deployment).
 
 ## Video presentation of key concepts and UI
-[Link to the video]()
+[Link to the video](https://drive.google.com/file/d/1egPoPEA1NdjF01ibEGCmnuYkKpQHGDM4/view?usp=sharing)
 
 ## Video presentation Walkthrough
 
