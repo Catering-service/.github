@@ -140,7 +140,7 @@ The entire platform is containerised - every microservice, database, and infrast
 - **36:29** - Admin Analytics
 - **37:42** - Session Management
 
-### Testing & Logout
+### Testing & Greetings
 
 - **38:28** - Frontend Testing
 - **40:47** - Greetings
